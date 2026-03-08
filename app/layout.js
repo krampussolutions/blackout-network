@@ -12,8 +12,8 @@ export const metadata = {
   description: site.description,
   verification: {
     other: {
-      'impact-site-verification': '622d4555-090a-4e50-9ea6-91f8055fad57'
-      'impact-site-verification' value='91e8ba8b-68c8-4bd2-ad74-b27bbdbecb4b'
+      'impact-site-verification': '622d4555-090a-4e50-9ea6-91f8055fad57',
+      'impact-site-verification': '91e8ba8b-68c8-4bd2-ad74-b27bbdbecb4b'
     }
   }
 };
