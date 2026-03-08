@@ -8,7 +8,7 @@ export default function HomePage() {
   return (
     <main>
       <Head>
-  <meta name="impact-site-verification" value="622d4555-090a-4e50-9ea6-91f8055fad57" />
+  <meta name='impact-site-verification' value='622d4555-090a-4e50-9ea6-91f8055fad57'>
 </Head>
       <section className="hero">
         <div className="container hero-grid">
