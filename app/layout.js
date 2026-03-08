@@ -9,7 +9,12 @@ export const metadata = {
     default: `${site.name} | Preparedness Gear Reviews`,
     template: `%s | ${site.name}`
   },
-  description: site.description
+  description: site.description,
+  verification: {
+    other: {
+      'impact-site-verification': '622d4555-090a-4e50-9ea6-91f8055fad57'
+    }
+  }
 };
 
 export default function RootLayout({ children }) {
