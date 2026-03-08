@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from 'next/link';
 import NewsletterCard from '@/components/NewsletterCard';
 import PostCard from '@/components/PostCard';
@@ -6,6 +7,9 @@ import { categories, comparisons, featuredProducts, guides } from '@/lib/site-da
 export default function HomePage() {
   return (
     <main>
+      <Head>
+  <meta name="impact-site-verification" value="622d4555-090a-4e50-9ea6-91f8055fad57" />
+</Head>
       <section className="hero">
         <div className="container hero-grid">
           <div className="card">
